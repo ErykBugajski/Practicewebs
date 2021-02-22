@@ -1,0 +1,150 @@
+.contain {
+position: relative;
+width: 1200px;
+height: 300px;
+margin-left: auto;
+background-color:greenyellow;
+}
+
+
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width: 99%;
+    height: 1000px;
+	position: static;
+    border: lightgreen;
+    float: left;
+}
+.header{
+    width: 100%;
+    background-color:#333;
+    float: left;
+ } 
+.header  h1{
+	color: white;
+	font-family: Rockwell;
+	text-align: center;
+}
+.contentl{
+    width: 40%;
+	height: 80%;
+    background-color: white;
+    float: left;
+ } 
+ .contentm{
+    width: 40%;
+	height: 80%;
+    background-color: white;
+    float: left;
+ } 
+ .contentr{
+    width: 20%;
+	height: 80%;
+    background-color: white;
+    float: left;
+ } 
+ .footer{
+    width: 100%;
+	height: 30%;
+    background-color:purple;
+    float: left;
+ } 
+.banner{
+    width: 100%;
+    height: 30%;
+    background-color: white;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: white;
+}
+
+.Main {
+text-align: center;
+font-size: medium;
+font-size: 30px;
+color: blue
+
+
+
+
+}
+
+.Starter {
+text-align: left;
+font-size: 20px;
+
+
+
+
+}
+
+.Keyboard {
+opacity: 100%;
+align-items: left;
+
+
+
+}
+.link {
+font-size: 50px;
+height: 400px;
+
+
+}
+.Mouse {
+float: right;
+height: 10cm;
+position: relative;
+height: -4900px;
+top: -408px;
+
+}
+.Link2 {
+    float: right;
+    font-size: 40px;
+    position: relative;
+    top: -400px;
+
+
+}
+.Para1 {
+    color: purple;
+    font-size: 30px;
+    position: relative;
+    top: -300px;
+
+
+
+}
+.Para2 {
+    position: relative;
+    float: right;
+    color: blue;
+    top: -165px;
+
+
+
+
+}
